@@ -1,5 +1,5 @@
 # 🙋‍♂️ About Me
-I am a Master's Research student in **Mechanical Engineering, Robotics, and Innovative Materials** with a passion for integrating **Machine Learning** into **mechanical problem-solving** and **data science** applications. My interests lie in revolutionizing the **automotive**, **aeronautic**, and **robotic process automation (RPA)** sectors, coupled with strong expertise in **designing**, **simulation**, and **engineering tools**.  
+I am a Master's Research student in **Mechanical Engineering, Robotics, and Innovative Materials** with a passion for integrating **Machine Learning** into **mechanical problem-solving** and **data science** applications. My interests lie in revolutionizing the **automotive**, **aeronautic**, and **computer vision** sectors, coupled with strong expertise in **designing**, **simulation**, and **engineering tools**.  
 
 I aim to contribute to innovative projects that blend **AI**, **IoT**, and **simulation technologies**, fostering sustainability and efficiency.  
 
@@ -19,13 +19,12 @@ I aim to contribute to innovative projects that blend **AI**, **IoT**, and **sim
 
 ### 🔧 Technical Tools:  
 - **Engineering & Simulation**: CATIA V5, Ansys, Abaqus, SolidWorks, AutoCAD, Fusion 360  
-- **Software Development & RPA**: TIA Portal, STEP 7 Simatic, Proteus, 20-SIM, AutoForm  
-- **Data Science & Machine Learning**: TensorFlow, PyTorch, Power BI, AWS, STATGRAPHICS  
+- **Automatisme & RPA**: TIA Portal, STEP 7 Simatic, Proteus, 20-SIM, AutoForm  
+- **Data Science & Machine Learning**:Machine & Deep Learning (TensorFlow, PyTorch, Ultralytics ’YOLO’, OpenCV, Pandas, NumPy, Scikit-learn, Flask ...), Data cleaning, SQL Server, PostgreSQL, DB Browser (SQLite), Power BI, AWS, SaaS, , MATLAB/Simulink, Excel VBA, Windows Server, Git/GitHub.  
 - **Energy Efficiency Tools**: Pleiades (Energy Simulation)  
 
 ### 🏆 Core Competencies:  
-- Machine Learning in Mechanical Problems  
-- Robotics Programming and Automation  
+- Machine Learning in Mechanical Problems 
 - Simulation of Mechanical Structures  
 - Energy Efficiency and Indoor Air Quality Optimization  
 - Predictive AI for Industrial Applications  
@@ -34,11 +33,11 @@ I aim to contribute to innovative projects that blend **AI**, **IoT**, and **sim
 - Word, Excel, PowerPoint, MS Project  
 
 ## 🎯 Personal Interests:  
-- **AI and Machine Learning** in Mechanics and Engineering  
+- **AI and Machine Learning** in Mechanics and Engineering, NLP, Computer vision, Prompt engineering, Problem Solving, Interior Design, picture processing, tech-health.  
 - **Smart Automation** and Mobility  
 - **Data Science in Automotive & Aeronautic Sectors**  
 - **Mechanical Design and Prompt Engineering**  
-- **Intercultural Experiences** and TED Talks  
+- **Intercultural Experiences** and TED Talks
 
 ## 🌍 Languages:  
 - **Arabic**: Native  
