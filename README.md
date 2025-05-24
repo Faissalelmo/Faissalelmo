@@ -18,7 +18,7 @@ I aim to contribute to innovative projects that blend **AI**, **IoT**, and **sim
 - Python  
 - MATLAB  
 - C++  
-- MySQL  
+- SQL  
 
 ### 🔧 Technical Tools:  
 - **Engineering & Simulation**: CATIA V5, Ansys, Abaqus, SolidWorks, AutoCAD, Fusion 360  
