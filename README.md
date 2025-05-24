@@ -5,8 +5,11 @@ I aim to contribute to innovative projects that blend **AI**, **IoT**, and **sim
 
 ## 💬 Quotes I Live By  
 > 🌟 "To improve something, you must first understand it."
+
 > 🌟 "Passion is the fuel that drives innovation. When you love what you do, every challenge becomes an opportunity."
+
 > 🌟 "Challenges are what make life interesting, and overcoming them is what makes life meaningful."
+
 > 🌟 "Combining theoretical and practical knowledge is not optional; it is essential."  
 
 ## 🛠️ Skills & Tools  
