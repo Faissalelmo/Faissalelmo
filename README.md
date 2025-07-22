@@ -48,5 +48,5 @@ I aim to contribute to innovative projects that blend **AI**, **IoT**, and **sim
 - **Spanish & German**: Beginner  
 
 ## 🔗 Let's Connect:   
-    [![download](https://github.com/user-attachments/assets/08cba356-ff43-4bb4-aa76-fcd02b3ea3ad)](https://www.linkedin.com/in/faissal-elmokaddem/)
-    [![download](https://github.com/user-attachments/assets/1ed03263-63c8-46df-964f-c8e91ab1888f)](mailto:Elmokaddem.faissal.04.12.2002@gmail.com) 
+[![download](https://github.com/user-attachments/assets/08cba356-ff43-4bb4-aa76-fcd02b3ea3ad)](https://www.linkedin.com/in/faissal-elmokaddem/)
+[![download](https://github.com/user-attachments/assets/1ed03263-63c8-46df-964f-c8e91ab1888f)](mailto:Elmokaddem.faissal.04.12.2002@gmail.com) 
