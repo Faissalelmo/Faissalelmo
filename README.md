@@ -1,5 +1,5 @@
 # 🙋‍♂️ About Me
-I am an engineer in **Mechanical Engineering, Robotics, and Innovative Materials** with a passion for integrating **Machine Learning** into **mechanical problem-solving** and **data science** applications. My interests lie in revolutionizing the **automotive**, **aeronautic**, and **computer vision** sectors, coupled with strong expertise in **designing**, **simulation**, and **engineering tools**.  
+I am a **Mechanical, Robotics, and Innovative Materials Engineering** with a passion for integrating **Machine Learning** into **mechanical problem-solving** and **data science** applications. My interests lie in revolutionizing the **automotive**, **aeronautic**, and **computer vision** sectors, coupled with strong expertise in **designing**, **simulation**, and **engineering tools**.  
 
 I aim to contribute to innovative projects that blend **AI**, **IoT**, and **simulation technologies**, fostering sustainability and efficiency.  
 
