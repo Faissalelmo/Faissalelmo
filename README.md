@@ -3,15 +3,6 @@ I am a **Mechanical, Robotics, and Innovative Materials Engineer** with a passio
 
 I aim to contribute to innovative projects that blend **AI**, **IoT**, and **simulation technologies**, fostering sustainability and efficiency.  
 
-## 💬 Quotes I Live By  
-> 🌟 "To improve something, you must first understand it."
-
-> 🌟 "Passion is the fuel that drives innovation. When you love what you do, every challenge becomes an opportunity."
-
-> 🌟 "Challenges are what make life interesting, and overcoming them is what makes life meaningful."
-
-> 🌟 "Combining theoretical and practical knowledge is not optional; it is essential."  
-
 ## 🛠️ Skills & Tools  
 
 ### 👨‍💻 Programming Languages:  
@@ -32,15 +23,11 @@ I aim to contribute to innovative projects that blend **AI**, **IoT**, and **sim
 - Energy Efficiency and Indoor Air Quality Optimization  
 - Predictive AI for Industrial Applications  
 
-### 📝 Office Tools:  
-- Word, Excel, PowerPoint, MS Project  
-
 ## 🎯 Personal Interests:  
 - **AI and Machine Learning** in Mechanics and Engineering, NLP, Computer vision, Prompt engineering, Problem Solving, Interior Design, picture processing, tech-health.  
 - **Smart Automation** and Mobility  
 - **Data Science in Automotive & Aeronautic Sectors**  
 - **Mechanical Design and Prompt Engineering**  
-- **Intercultural Experiences** and TED Talks
 
 ## 🌍 Languages:  
 - **Arabic**: Native  
