@@ -1,39 +1,88 @@
-# 🙋‍♂️ About Me
-I am a **Mechanical, Robotics, and Innovative Materials Engineer** with a passion for integrating **Machine Learning** into **mechanical problem-solving** and **data science** applications. My interests lie in revolutionizing the **automotive**, **aeronautic**, and **computer vision** sectors, coupled with strong expertise in **designing**, **simulation**, and **engineering tools**.  
+# 👋 Hi, I'm Faissal Elmokaddem  
 
-I aim to contribute to innovative projects that blend **AI**, **IoT**, and **simulation technologies**, fostering sustainability and efficiency.  
+## 🚀 Data Scientist | Data Engineer | Machine Learning Engineer  
 
-## 🛠️ Skills & Tools  
+I am a **Data Scientist and Data Engineer** passionate about transforming raw data into actionable insights and scalable AI-driven solutions.  
 
-### 👨‍💻 Programming Languages:  
+I design and deploy **end-to-end data systems** — from data collection and preprocessing to predictive modeling, automation, and business intelligence dashboards.  
+
+My focus is on building **data-driven solutions** that improve decision-making, optimize performance, and deliver measurable business impact.
+
+---
+
+## 🧠 Core Expertise  
+
+- 📊 Predictive Analytics & Machine Learning  
+- 🔍 Customer & Behavioral Analytics  
+- ⚡ Anomaly & Fraud Detection  
+- 🏗️ Data Pipeline Architecture (ETL)  
+- 📈 Business Intelligence & KPI Monitoring  
+- 🤖 Applied AI & LLM Integration  
+
+---
+
+## 🛠️ Technical Skills  
+
+### 💻 Programming & Query Languages  
 - Python  
-- MATLAB  
-- C++  
 - SQL  
+- MATLAB  
 
-### 🔧 Technical Tools:  
-- **Engineering & Simulation**: CATIA V5, Ansys, Abaqus, SolidWorks, AutoCAD, Fusion 360  
-- **Automatisme & RPA**: TIA Portal, STEP 7 Simatic, Proteus, 20-SIM, AutoForm  
-- **Data Science & Machine Learning**:Machine & Deep Learning (TensorFlow, PyTorch, Ultralytics ’YOLO’, OpenCV, Pandas, NumPy, Scikit-learn, Flask ...), Data cleaning, SQL Server, PostgreSQL, DB Browser (SQLite), Power BI, AWS, SaaS, , MATLAB/Simulink, Excel VBA, Windows Server, Git/GitHub.  
-- **Energy Efficiency Tools**: Pleiades (Energy Simulation)  
+### 🤖 Machine Learning & AI  
+- Scikit-learn  
+- TensorFlow & PyTorch  
+- NLP & Computer Vision (OpenCV, YOLO)  
+- Feature Engineering & Model Optimization  
+- Retrieval-Augmented Generation (RAG)  
+- LLM Integration  
 
-### 🏆 Core Competencies:  
-- Machine Learning in Mechanical Problems 
-- Simulation of Mechanical Structures  
-- Energy Efficiency and Indoor Air Quality Optimization  
-- Predictive AI for Industrial Applications  
+### 🏗️ Data Engineering  
+- ETL Pipeline Development  
+- Data Cleaning & Normalization  
+- REST API Integration  
+- Web Scraping & Automation  
+- PostgreSQL, MySQL, SQLite  
+- Workflow Automation (CRON, Python Scripts)  
 
-## 🎯 Personal Interests:  
-- **AI and Machine Learning** in Mechanics and Engineering, NLP, Computer vision, Prompt engineering, Problem Solving, Interior Design, picture processing, tech-health.  
-- **Smart Automation** and Mobility  
-- **Data Science in Automotive & Aeronautic Sectors**  
-- **Mechanical Design and Prompt Engineering**  
+### 📊 Data Visualization  
+- Power BI  
+- Data Storytelling  
+- KPI & Performance Monitoring Dashboards  
 
-## 🌍 Languages:  
-- **Arabic**: Native  
-- **French & English**: Fluent (Professional proficiency)  
-- **Spanish & German**: Beginner  
+### ⚙️ Tools & Technologies  
+- FastAPI  
+- Streamlit  
+- ChromaDB & FastEmbed  
+- Git & GitHub  
+- Docker  
+- AWS (Foundational Knowledge)  
 
-## 🔗 Let's Connect:   
-[![download](https://github.com/user-attachments/assets/08cba356-ff43-4bb4-aa76-fcd02b3ea3ad)](https://www.linkedin.com/in/faissal-elmokaddem/)
-[![download](https://github.com/user-attachments/assets/1ed03263-63c8-46df-964f-c8e91ab1888f)](mailto:Elmokaddem.faissal.04.12.2002@gmail.com) 
+---
+
+## 📌 What I Work On  
+
+- Customer Analytics & Segmentation  
+- Predictive Maintenance Models  
+- AI-Powered Analytics Platforms  
+- Automated Data Collection Systems  
+- Intelligent Assistants with RAG Architecture  
+
+---
+
+## 🌍 Languages  
+
+- Arabic — Native  
+- French — Fluent  
+- English — Fluent  
+
+---
+
+## 📫 Let's Connect  
+
+- 🔗 LinkedIn: [Faissal Elmokaddem](https://www.linkedin.com/in/faissal-elmokaddem/)  
+- 📧 Email: faissalelmokaddem@gmail.com  
+- 🌐 Portfolio: https://faissal-s-portfolio.vercel.app/  
+
+---
+
+⭐ *Open to opportunities in Data Science, Data Engineering, Machine Learning, and AI-driven analytics roles.*
