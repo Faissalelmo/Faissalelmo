@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faissal Elmokaddem  
 
-## 🚀 Data Scientist | Data Engineer | Machine Learning Engineer  
+## 🚀 Data Scientist | Data Engineer  
 
 I am a **Data Scientist and Data Engineer** passionate about transforming raw data into actionable insights and scalable AI-driven solutions.  
 
